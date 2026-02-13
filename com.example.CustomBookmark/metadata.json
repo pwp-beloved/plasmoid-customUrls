@@ -1,0 +1,21 @@
+{
+    "KPlugin": {
+        "Id": "com.example.CustomBookmark",
+        "Name": "Custom Bookmarks (URL)",
+        "Description": "Desktop widget with custom urls",
+        "Version": "1.0",
+        "License": "GPL3",
+        "Authors": [
+            {
+                "Name": "PWP"
+            }
+        ],
+        "Website": "https://github.com/pwp-beloved/plasmoid-customUrls"
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-Config": "config/config.qml"
+
+    
+    
+}

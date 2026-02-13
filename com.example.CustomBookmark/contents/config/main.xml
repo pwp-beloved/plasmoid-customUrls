@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0">
+  <kcfgfile name="com.example.simplerect">
+    <group name="General">
+      <entry name="url1" type="String">
+        <default>https://kde.org</default>
+      </entry>
+      <entry name="url2" type="String">
+        <default>https://qt.io</default>
+      </entry>
+      <entry name="url3" type="String">
+        <default>https://kdeconnect.kde.org</default>
+      </entry>
+      <entry name="url4" type="String">
+        <default>https://plasma.kde.org</default>
+      </entry>
+
+      <entry name="btn1" type="String">
+        <default>Button 1</default>
+      </entry>
+      <entry name="btn2" type="String">
+        <default>Button 2</default>
+      </entry>
+      <entry name="btn3" type="String">
+        <default>Button 3</default>
+      </entry>
+      <entry name="btn4" type="String">
+        <default>Button 4</default>
+      </entry>
+    </group>
+  </kcfgfile>
+</kcfg>
