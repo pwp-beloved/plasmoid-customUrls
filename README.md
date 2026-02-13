@@ -1,5 +1,6 @@
 # plasmoid-customUrls
 Custom Url widget for KDE Plasma 6
+<br>
 <img width="236" height="201" alt="image" src="https://github.com/user-attachments/assets/fdb5ce8e-2f0a-43ed-9293-74ab1bb8340a" />
 Default look.
 
