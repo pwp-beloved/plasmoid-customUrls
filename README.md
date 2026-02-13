@@ -11,3 +11,11 @@ Supports 4 urls (is easily changeable inside by just replicating more buttons/de
 
 I made this for easy access to study websites. Quite helpfull C:
 
+Installation:
+
+Find your plasmoids folder.
+In my case on CachyOS it was /usr/share/plasma/plasmoids/
+
+Download repo and put com.example.customBookmark into /usr/share/plasma/plasmoids/
+After that it should just appear in your widget menu.
+Enjoy!
